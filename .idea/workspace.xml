@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e49ccb3-dadf-46b5-a79e-47298c789657" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../../Rubbish/target/" />
+    <ignored path="$USER_HOME$/Desktop/git/java16poz/target/" />
+    <ignored path="$PROJECT_DIR$/../TicTacToe/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Desktop/git/java16poz" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/pizzeria/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/pizzeria/Napoli.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/pizzeria/Margaritta.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/sklepInternetowy/Tax.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/sklepInternetowy/TaxOffice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/sklepInternetowy/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/sklepInternetowy/TaxPL.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/sklepInternetowy/TaxDe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/biednyCamelCase/nazwa.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/biednyCamelCase/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/biednyCamelCase/camelCase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/biednyCamelCase/PoorCamelCase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/emergencyObserwator/EmergencyCenter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/emergencyObserwator/IAmbulance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/emergencyObserwator/Operator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/emergencyObserwator/OperatorAdam.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/emergencyObserwator/FirstAmbulance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/emergencyObserwator/SecondAmbulance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/emergencyObserwator/EmergencyCentre.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/dniTygodnia/DayOfWeek.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/bracketParse/TagParser.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sdacademy/java16poz/programowanie2/bracketParse/TagParserTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sdacademy/java16poz/programowanie2/watki/TaskTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/watki/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/watki/Task.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/watki/MyCallable.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sdacademy/java16poz/programowanie2/weryfikacjaID/VerificationIDTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/generator/Generator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/weryfikacjaID/VerificationID.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/weryfikacjaID/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/weryfikacjaID/GeneratorID.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/weryfikacjaID/id.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sdacademy/java16poz/programowanie2/biednyCamelCase/PoorCamelCaseTest.java" />
+        <option value="$PROJECT_DIR$/../../Rubbish/src/main/java/classObjectTask/taskTwo/BankAccount.java" />
+        <option value="$PROJECT_DIR$/../../Rubbish/src/main/java/classObjectTask/taskTwo/Credit.java" />
+        <option value="$PROJECT_DIR$/../../Rubbish/src/main/java/classObjectTask/taskTwo/Person.java" />
+        <option value="$PROJECT_DIR$/../../Rubbish/src/main/java/classObjectTask/taskTwo/Address.java" />
+        <option value="$PROJECT_DIR$/../../Rubbish/src/main/java/classObjectTask/taskTwo/Bank.java" />
+        <option value="$PROJECT_DIR$/../../Rubbish/src/main/java/metodyIKonstruktory/Calc.java" />
+        <option value="$PROJECT_DIR$/../../Rubbish/src/main/java/metodyIKonstruktory/Conputer.java" />
+        <option value="$PROJECT_DIR$/../../Rubbish/src/main/java/metodyIKonstruktory/ComputerUpgrade.java" />
+        <option value="$PROJECT_DIR$/../../Rubbish/src/main/java/metodyIKonstruktory/ComputerFactory.java" />
+        <option value="$PROJECT_DIR$/../../Rubbish/src/main/java/metodyIKonstruktory/ComputerStore.java" />
+        <option value="$PROJECT_DIR$/../../Rubbish/src/main/java/metodyIKonstruktory/Computer.java" />
+        <option value="$PROJECT_DIR$/../../Rubbish/src/main/java/metodyIKonstruktory/task2/changeMeters.java" />
+        <option value="$PROJECT_DIR$/../../Rubbish/src/main/java/metodyIKonstruktory/task2/changeHour.java" />
+        <option value="$PROJECT_DIR$/../../Rubbish/src/main/java/metodyIKonstruktory/task2/Main.java" />
+        <option value="$PROJECT_DIR$/../../Rubbish/src/main/java/ProjectBook/Book.java" />
+        <option value="$PROJECT_DIR$/../../Rubbish/src/main/java/ProjectBook/Library.java" />
+        <option value="$PROJECT_DIR$/../../Rubbish/src/main/java/metodyIKonstruktory/task1/Calculator.java" />
+        <option value="$PROJECT_DIR$/../../Rubbish/src/main/java/metodyIKonstruktory/task1/Calculate.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rubbish" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565170647246" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TicTacToe" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.sdacademy.java16poz.programowanie2.biednyCamelCase" />
+      <recent name="pl.sdacademy.java16poz.programowanie2.weryfikacjaID" />
+      <recent name="pl.sdacademy.java16poz.programowanie2.watki" />
+      <recent name="pl.sdacademy.java16poz.programowanie2.bracketParse" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\sda\myproject\src\main\java\pl\sdacademy\java16poz\programowanie2\sprawdzaniePliku\file" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ScannerMain">
+    <configuration name="Calculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="metodyIKonstruktory.task1.Calculate" />
+      <module name="Rubbish" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="metodyIKonstruktory.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="metodyIKonstruktory.ComputerStore" />
+      <module name="Rubbish" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="metodyIKonstruktory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjectBook.Library" />
+      <module name="Rubbish" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProjectBook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="metodyIKonstruktory.task2.Main" />
+      <module name="Rubbish" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="metodyIKonstruktory.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.java16poz.scanner.ScannerMain" />
+      <module name="myproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sdacademy.java16poz.scanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ScannerMain" />
+        <item itemvalue="Application.Calculate" />
+        <item itemvalue="Application.Library" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.ComputerStore" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e49ccb3-dadf-46b5-a79e-47298c789657" name="Default Changelist" comment="" />
+      <created>1562484844294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562484844294</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BracketParseTest - 2019.07.20 at 10h 07m 38s.xml">
+      <configuration name="BracketParseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TagParserTest_shouldCorrectlyParseAndUpperCaseHTML - 2019.07.20 at 16h 01m 40s.xml">
+      <configuration name="TagParserTest.shouldCorrectlyParseAndUpperCaseHTML" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TagParserTest - 2019.07.20 at 16h 02m 35s.xml">
+      <configuration name="TagParserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TagParserTest - 2019.07.21 at 09h 08m 33s.xml">
+      <configuration name="TagParserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TagParserTest - 2019.07.21 at 09h 11m 31s.xml">
+      <configuration name="TagParserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TagParserTest - 2019.07.21 at 09h 13m 09s.xml">
+      <configuration name="TagParserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TagParserTest - 2019.07.21 at 09h 15m 42s.xml">
+      <configuration name="TagParserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TagParserTest - 2019.07.21 at 09h 15m 59s.xml">
+      <configuration name="TagParserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TaskTest_shouldCorrectlyCountPeselCheckSum - 2019.07.21 at 11h 14m 49s.xml">
+      <configuration name="TaskTest.shouldCorrectlyCountPeselCheckSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TaskTest_shouldCorrectlyCountPeselCheckSum - 2019.07.21 at 11h 15m 04s.xml">
+      <configuration name="TaskTest.shouldCorrectlyCountPeselCheckSum" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18993288" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="GitHub Pull Requests" weight="0.33002833" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2776204" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Key Promoter X" order="8" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/sklepInternetowy/TaxOffice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/sklepInternetowy/TaxPL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/biednyCamelCase/nazwa.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/emergencyObserwator/Operator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/emergencyObserwator/IAmbulance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/emergencyObserwator/ThirdAmbulance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/emergencyObserwator/FirstAmbulance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="61" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="17" selection-end-column="61" />
+          <folding>
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/emergencyObserwator/OperatorAdam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/emergencyObserwator/SecondAmbulance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/emergencyObserwator/EmergencyCentre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/dniTygodnia/DayOfWeek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/bracketParse/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/watki/MyCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/java16poz/programowanie2/watki/TaskTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/java16poz/programowanie2/program/ProgramTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1480">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/java16poz/programowanie2/bracketParse/TagParserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/java16poz/programowanie2/bracketParse/BracketParseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/bracketParse/TagParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/bracketParse/BracketParse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/watki/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="46" column="43" lean-forward="true" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/watki/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/java16poz/programowanie2/weryfikacjaID/VerificationIDTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="45" column="10" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/generator/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/generator/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Programy/FadeTop/FadeTop/Settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/weryfikacjaID/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/weryfikacjaID/id.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/weryfikacjaID/VerificationID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="76" column="78" lean-forward="true" selection-start-line="76" selection-start-column="78" selection-end-line="76" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2700#2709#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/weryfikacjaID/GeneratorID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/biednyCamelCase/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/biednyCamelCase/PoorCamelCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sdacademy/java16poz/programowanie2/biednyCamelCase/PoorCamelCaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/java16poz/programowanie2/biednyCamelCase/camelCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Rubbish/src/main/java/classObjectTask/taskTwo/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="26" column="50" lean-forward="true" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Rubbish/src/main/java/classObjectTask/taskTwo/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" lean-forward="true" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Rubbish/src/main/java/classObjectTask/taskTwo/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Rubbish/src/main/java/classObjectTask/taskTwo/Credit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Rubbish/src/main/java/classObjectTask/taskTwo/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Rubbish/src/main/java/metodyIKonstruktory.java" />
+    <entry file="file://$PROJECT_DIR$/../../Rubbish/src/main/java/metodyIKonstruktory/Calc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Rubbish/src/main/java/metodyIKonstruktory/ComputerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Rubbish/src/main/java/metodyIKonstruktory/ComputerUpgrade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="61" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Rubbish/src/main/java/metodyIKonstruktory/ComputerStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="48" lean-forward="true" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Rubbish/src/main/java/metodyIKonstruktory/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Rubbish/src/main/java/metodyIKonstruktory/task2/changeMeters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Rubbish/src/main/java/metodyIKonstruktory/task2/changeHour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Rubbish/src/main/java/metodyIKonstruktory/task2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Rubbish/src/main/java/ProjectBook/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="21" column="115" selection-start-line="21" selection-start-column="115" selection-end-line="21" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Rubbish/src/main/java/ProjectBook/Library.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Rubbish/src/main/java/metodyIKonstruktory/task1/Calculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Rubbish/src/main/java/metodyIKonstruktory/task1/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java16poz</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

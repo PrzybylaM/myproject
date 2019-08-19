@@ -1,0 +1,5 @@
+package pl.sdacademy.java16poz.projekt;
+
+public enum OpcjaMenu {
+    ZAKONCZ,ZLOZ_ZAMOWIENIE,RACHUNEK,STAN_ZAMOWIENIA,NIE_POPRAWNIE,SPRAWDZ_ZAMOWIENIE,LISTA_ZAMOWIEN
+}

@@ -1,0 +1,90 @@
+09:34:35.845 [main] DEBUG p.s.j.programowanie2.program.Program - Logger is working!!
+09:34:35.849 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
+09:38:39.202 [main] DEBUG p.s.j.programowanie2.program.Program - Logger is working!!
+09:38:39.206 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
+09:38:59.123 [main] DEBUG p.s.j.programowanie2.program.Program - Logger is working!!
+09:38:59.128 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
+09:41:46.816 [main] DEBUG p.s.j.programowanie2.program.Program - Logger is working!!
+09:41:46.822 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
+09:59:51.863 [main] DEBUG p.s.j.programowanie2.program.Program - Logger is working!!
+09:59:51.867 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
+10:03:54.537 [main] DEBUG p.s.j.programowanie2.program.Program - Logger is working!!
+10:03:54.541 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
+10:07:42.492 [main] DEBUG p.s.j.programowanie2.program.Program - Logger is working!!
+10:07:42.496 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
+10:09:20.710 [main] DEBUG p.s.j.programowanie2.program.Program - Logger is working!!
+10:09:20.713 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
+10:11:32.034 [main] DEBUG p.s.j.programowanie2.program.Program - Logger is working!!
+10:11:32.038 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
+10:11:53.509 [main] DEBUG p.s.j.programowanie2.program.Program - Logger is working!!
+10:11:53.513 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
+10:12:35.757 [main] DEBUG p.s.j.programowanie2.program.Program - Logger is working!!
+10:12:35.760 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
+10:16:33.836 [main] DEBUG p.s.j.programowanie2.program.Program - Logger is working!!
+10:16:33.838 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
+10:18:06.278 [main] DEBUG p.s.j.programowanie2.program.Program - Logger is working!!
+10:18:06.281 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
+10:21:58.279 [main] DEBUG p.s.j.programowanie2.program.Program - Logger is working!!
+10:21:58.283 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
+10:22:19.379 [main] DEBUG p.s.j.programowanie2.program.Program - Logger is working!!
+10:22:19.382 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
+10:23:49.249 [main] DEBUG p.s.j.programowanie2.program.Program - Logger is working!!
+10:23:49.252 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
+10:28:26.219 [main] DEBUG p.s.j.programowanie2.program.Program - Logger is working!!
+10:28:26.222 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
+10:29:08.941 [main] DEBUG p.s.j.programowanie2.program.Program - Logger is working!!
+10:29:08.944 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
+10:29:58.998 [main] DEBUG p.s.j.programowanie2.program.Program - Logger is working!!
+10:29:59.001 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
+10:30:18.751 [main] DEBUG p.s.j.programowanie2.program.Program - Logger is working!!
+10:30:18.754 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
+10:38:08.643 [main] DEBUG p.s.j.programowanie2.program.Program - Logger is working!!
+10:38:08.647 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
+10:41:25.045 [main] DEBUG p.s.j.programowanie2.program.Program - Logger is working!!
+10:41:25.049 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
+10:47:31.024 [main] DEBUG p.s.j.programowanie2.program.Program - Logger is working!!
+10:58:32.085 [main] DEBUG p.s.j.programowanie2.program.Program - Logger is working!!

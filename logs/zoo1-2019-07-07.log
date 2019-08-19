@@ -1,0 +1,9 @@
+10:38:08.647 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
+10:41:25.049 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
+10:47:31.028 [main] ERROR p.s.j.programowanie2.program.Program - Error has occured: 
+java.lang.RuntimeException: null
+	at pl.sdacademy.java16poz.programowanie2.program.Program.main(Program.java:31)
