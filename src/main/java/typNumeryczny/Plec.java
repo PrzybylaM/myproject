@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.typNumeryczny;
+package typNumeryczny;
 
 
 //Plec - typ danych wyliczeniowych

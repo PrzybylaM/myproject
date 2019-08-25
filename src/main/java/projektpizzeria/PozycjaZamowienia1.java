@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.projektpizzeria;
+package projektpizzeria;
 
 public class PozycjaZamowienia1 {
 

@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.klasy;
+package klasy;
 
 public class OsobaMain {
 }

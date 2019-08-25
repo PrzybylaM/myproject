@@ -1,9 +1,9 @@
-package pl.sdacademy.java16poz.kolekcje;
+package kolekcje;
 
-import pl.sdacademy.java16poz.interfejsy.figury.Figura;
-import pl.sdacademy.java16poz.interfejsy.figury.KoloFiguraImpl;
-import pl.sdacademy.java16poz.interfejsy.figury.TrojkatFiguraImpl;
-import pl.sdacademy.java16poz.obiekty.Zamowieniee;
+import interfejsy.figury.Figura;
+import interfejsy.figury.KoloFiguraImpl;
+import interfejsy.figury.TrojkatFiguraImpl;
+import obiekty.Zamowieniee;
 
 
 import java.util.ArrayList;

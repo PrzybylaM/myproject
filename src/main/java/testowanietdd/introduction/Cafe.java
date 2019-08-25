@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.testowanietdd.introduction;
+package testowanietdd.introduction;
 
 public class Cafe {
 

@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.programowanie1.lists.tree;
+package programowanie1.lists.tree;
 
 
 /**

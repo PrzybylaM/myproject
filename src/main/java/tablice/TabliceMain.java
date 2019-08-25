@@ -1,7 +1,7 @@
-package pl.sdacademy.java16poz.tablice;
+package tablice;
 
-import pl.sdacademy.java16poz.obiekty.Zamowieniee;
-import pl.sdacademy.java16poz.projektZamowienia.Zamowienie;
+import obiekty.Zamowieniee;
+
 
 public class TabliceMain {
     public static void main(String[] args) {

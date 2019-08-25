@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.programowanie2.watki;
+package programowanie2.watki;
 
 
 

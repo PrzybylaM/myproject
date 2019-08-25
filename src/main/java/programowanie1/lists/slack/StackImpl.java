@@ -1,7 +1,7 @@
-package pl.sdacademy.java16poz.programowanie1.lists.slack;
+package programowanie1.lists.slack;
 
-import pl.sdacademy.java16poz.lists.linkedlist.Node;
-import pl.sdacademy.java16poz.obiekty.Book;
+import lists.linkedlist.Node;
+import obiekty.Book;
 
 import java.util.Optional;
 

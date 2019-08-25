@@ -1,8 +1,8 @@
-package pl.sdacademy.java16poz.programowanie2.program.beers;
+package programowanie2.program.beers;
 
-import pl.sdacademy.java16poz.programowanie2.program.Animal;
-import pl.sdacademy.java16poz.programowanie2.program.helpers.IDateProvider;
-import pl.sdacademy.java16poz.programowanie2.program.ILivingBear;
+import programowanie2.program.Animal;
+import programowanie2.program.helpers.IDateProvider;
+import programowanie2.program.ILivingBear;
 
 public abstract class Beer extends Animal implements ILivingBear {
     public Beer(IDateProvider dateProvid) {

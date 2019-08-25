@@ -1,7 +1,7 @@
-package pl.sdacademy.java16poz.programowanie2.program.beers;
+package programowanie2.program.beers;
 
-import pl.sdacademy.java16poz.programowanie2.program.helpers.IDateProvider;
-import pl.sdacademy.java16poz.programowanie2.program.ILivingBear;
+import programowanie2.program.helpers.IDateProvider;
+import programowanie2.program.ILivingBear;
 
 public class BrownBeer extends Beer implements ILivingBear {
 

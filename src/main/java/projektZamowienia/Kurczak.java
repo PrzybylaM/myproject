@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.projektZamowienia;
+package projektZamowienia;
 
 public class Kurczak implements Zamowienie {
 

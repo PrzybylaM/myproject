@@ -1,8 +1,8 @@
-package pl.sdacademy.java16poz.instrukcje.warunkowe.instrukcje.przelacznik;
+package instrukcje.warunkowe.instrukcje.przelacznik;
 
-import com.sun.org.apache.bcel.internal.generic.SWITCH;
-import pl.sdacademy.java16poz.obiekty.Osoba;
-import pl.sdacademy.java16poz.typNumeryczny.Ocena;
+
+import obiekty.Osoba;
+import typNumeryczny.Ocena;
 
 public class SwitchMain {
 

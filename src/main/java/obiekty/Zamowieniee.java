@@ -1,7 +1,7 @@
-package pl.sdacademy.java16poz.obiekty;
+package obiekty;
 
-import pl.sdacademy.java16poz.projekt.ProjektUtils;
-import pl.sdacademy.java16poz.projektZamowienia.Zamowienie;
+import projekt.ProjektUtils;
+import projektZamowienia.Zamowienie;
 
 import java.util.ArrayList;
 import java.util.List;

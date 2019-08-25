@@ -1,4 +1,5 @@
-package pl.sdacademy.java16poz.interfejsy.figury;
+package interfejsy.figury;
+
 
 public class ProstokatFiguraImpl implements Figura {
 

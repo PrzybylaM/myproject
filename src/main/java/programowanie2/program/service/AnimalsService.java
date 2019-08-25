@@ -1,6 +1,6 @@
-package pl.sdacademy.java16poz.programowanie2.program.service;
+package programowanie2.program.service;
 
-import pl.sdacademy.java16poz.programowanie2.program.IAnimal;
+import programowanie2.program.IAnimal;
 
 import java.util.ArrayList;
 import java.util.HashMap;

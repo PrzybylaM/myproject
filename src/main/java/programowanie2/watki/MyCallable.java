@@ -1,6 +1,6 @@
-package pl.sdacademy.java16poz.programowanie2.watki;
+package programowanie2.watki;
 
-import pl.sdacademy.java16poz.programowanie1.sort.BubbleSort;
+import programowanie1.sort.BubbleSort;
 
 import java.util.List;
 import java.util.concurrent.Callable;

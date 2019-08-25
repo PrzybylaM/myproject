@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.programowanie2.dniTygodnia;
+package programowanie2.dniTygodnia;
 
 import java.util.ArrayList;
 import java.util.List;

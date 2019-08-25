@@ -1,7 +1,7 @@
-package pl.sdacademy.java16poz.stringBuilder;
+package stringBuilder;
 
-import pl.sdacademy.java16poz.obiekty.Firma;
-import pl.sdacademy.java16poz.obiekty.Zamowieniee;
+import obiekty.Firma;
+import obiekty.Zamowieniee;
 
 public class StringBuilderMain {
     public static void main(String[] args) {

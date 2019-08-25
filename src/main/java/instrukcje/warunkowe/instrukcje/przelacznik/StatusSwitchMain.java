@@ -1,7 +1,7 @@
-package pl.sdacademy.java16poz.instrukcje.warunkowe.instrukcje.przelacznik;
+package instrukcje.warunkowe.instrukcje.przelacznik;
 
-import jdk.net.SocketFlow;
-import pl.sdacademy.java16poz.typNumeryczny.StatusUzytkownika;
+
+import typNumeryczny.StatusUzytkownika;
 
 public class StatusSwitchMain {
     public static void main(String[] args) {

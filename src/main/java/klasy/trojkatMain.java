@@ -1,6 +1,6 @@
-package pl.sdacademy.java16poz.klasy;
+package klasy;
 
-import pl.sdacademy.java16poz.obiekty.Trojkat;
+import obiekty.Trojkat;
 
 /**
  * TrojkatMain

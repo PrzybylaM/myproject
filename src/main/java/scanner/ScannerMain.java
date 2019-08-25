@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.scanner;
+package scanner;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.dataICzas;
+package dataICzas;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.lambda;
+package lambda;
 
 
 public class Liczba3Impl implements Liczba3 {

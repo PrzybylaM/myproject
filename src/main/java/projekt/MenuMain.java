@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.projekt;
+package projekt;
 
 public class MenuMain {
 

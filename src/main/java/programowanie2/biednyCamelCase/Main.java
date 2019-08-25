@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.programowanie2.biednyCamelCase;
+package programowanie2.biednyCamelCase;
 
 import java.io.File;
 import java.io.FileNotFoundException;

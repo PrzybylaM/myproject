@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.interfejsy;
+package interfejsy;
 
 public class DworzecMcDonaldImp implements McDonald {
 

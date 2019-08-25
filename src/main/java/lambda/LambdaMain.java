@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.lambda;
+package lambda;
 
 public class LambdaMain {
     public static void main(String[] args) {

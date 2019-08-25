@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.Git;
+package Git;
 
 public class Main {
     public static void main(String[] args) {

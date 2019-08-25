@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.operatory;
+package operatory;
 
 /**
  * OperatoryMain

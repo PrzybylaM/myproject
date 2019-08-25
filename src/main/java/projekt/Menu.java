@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.projekt;
+package projekt;
 
 import java.util.ArrayList;
 import java.util.List;

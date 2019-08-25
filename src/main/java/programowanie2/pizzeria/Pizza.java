@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.programowanie2.pizzeria;
+package programowanie2.pizzeria;
 
 public abstract class Pizza implements IDish {
     private int price = 0;

@@ -4,8 +4,8 @@ import org.junit.Before;
 import org.junit.Test;
 import pl.sdacademy.java16poz.java16poz.programowanie1.TestBase;
 import pl.sdacademy.java16poz.obiekty.Person;
-import pl.sdacademy.java16poz.programowanie1.lists.queue.Queue;
-import pl.sdacademy.java16poz.programowanie1.lists.queue.QueueImpl;
+import programowanie1.lists.queue.Queue;
+import programowanie1.lists.queue.QueueImpl;
 
 import java.util.Optional;
 

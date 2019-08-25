@@ -1,7 +1,7 @@
-package pl.sdacademy.java16poz.kolekcje;
+package kolekcje;
 
-import pl.sdacademy.java16poz.obiekty.Zamowieniee;
-import pl.sdacademy.java16poz.projektZamowienia.Zamowienie;
+import obiekty.Zamowieniee;
+import projektZamowienia.Zamowienie;
 
 
 import java.util.ArrayList;

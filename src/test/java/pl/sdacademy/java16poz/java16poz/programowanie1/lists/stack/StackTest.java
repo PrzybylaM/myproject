@@ -2,9 +2,9 @@ package pl.sdacademy.java16poz.java16poz.programowanie1.lists.stack;
 
 import org.junit.Before;
 import org.junit.Test;
-import pl.sdacademy.java16poz.obiekty.Book;
-import pl.sdacademy.java16poz.programowanie1.lists.slack.Stack;
-import pl.sdacademy.java16poz.programowanie1.lists.slack.StackImpl;
+import obiekty.Book;
+import programowanie1.lists.slack.Stack;
+import programowanie1.lists.slack.StackImpl;
 
 import java.util.Optional;
 

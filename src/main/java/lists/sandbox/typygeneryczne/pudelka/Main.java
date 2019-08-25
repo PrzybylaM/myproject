@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.lists.sandbox.typygeneryczne.pudelka;
+package lists.sandbox.typygeneryczne.pudelka;
 
 /**
  * Main

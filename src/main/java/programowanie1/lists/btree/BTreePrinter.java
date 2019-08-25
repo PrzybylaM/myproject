@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.programowanie1.lists.btree;
+package programowanie1.lists.btree;
 
 import java.util.ArrayList;
 import java.util.List;

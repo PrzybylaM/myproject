@@ -1,8 +1,6 @@
-package pl.sdacademy.java16poz.abstrakcje;
+package abstrakcje;
 
-
-public class AbstrakcjaMain {
-
+public class Main {
     public static void main(String[] args) {
 
         Figura figuraKwadrat = new Kwardrat(5);
@@ -42,3 +40,4 @@ public class AbstrakcjaMain {
         System.out.printf("Suma pól to %.2f",sumaPol);
     }
 }
+

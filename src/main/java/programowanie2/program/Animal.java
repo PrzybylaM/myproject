@@ -1,7 +1,7 @@
-package pl.sdacademy.java16poz.programowanie2.program;
+package programowanie2.program;
 
-import pl.sdacademy.java16poz.programowanie2.program.helpers.DateUtils;
-import pl.sdacademy.java16poz.programowanie2.program.helpers.IDateProvider;
+import programowanie2.program.helpers.DateUtils;
+import programowanie2.program.helpers.IDateProvider;
 
 import java.util.Date;
 import java.util.concurrent.TimeUnit;

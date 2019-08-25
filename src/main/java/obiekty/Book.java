@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.obiekty;
+package obiekty;
 
 import java.util.Date;
 

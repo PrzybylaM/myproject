@@ -1,10 +1,9 @@
 package pl.sdacademy.java16poz.java16poz.animals;
 
 
-import pl.sdacademy.java16poz.dziedziczenie.animals.Animal;
-import pl.sdacademy.java16poz.dziedziczenie.animals.Plant;
-import pl.sdacademy.java16poz.dziedziczenie.animals.Prey;
-import pl.sdacademy.java16poz.dziedziczenie.animals.Vegenarian;
+import dziedziczenie.animals.Plant;
+import dziedziczenie.animals.Prey;
+import dziedziczenie.animals.Vegenarian;
 
 /**
  * Squirrel
@@ -23,8 +22,9 @@ public class Squirrel extends Mammal implements Vegenarian, Prey {
         System.out.printf("\n %s je %s",this.getName(), plant.getName());
     }
 
+
     @Override
-    public void runAWayFrom(Animal animal) {
+    public void runAWayFrom(dziedziczenie.animals.Animal animal) {
 
     }
 }

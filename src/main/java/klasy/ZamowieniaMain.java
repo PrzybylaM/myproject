@@ -1,8 +1,8 @@
-package pl.sdacademy.java16poz.klasy;
+package klasy;
 
-import pl.sdacademy.java16poz.obiekty.Zamowieniee;
-import pl.sdacademy.java16poz.projektZamowienia.Kurczak;
-import pl.sdacademy.java16poz.projektZamowienia.Zamowienie;
+import obiekty.Zamowieniee;
+import projektZamowienia.Kurczak;
+import projektZamowienia.Zamowienie;
 
 import java.util.ArrayList;
 import java.util.List;

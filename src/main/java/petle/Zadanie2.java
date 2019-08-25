@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.petle;
+package petle;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

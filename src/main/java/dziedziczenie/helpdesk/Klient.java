@@ -1,4 +1,6 @@
-package pl.sdacademy.java16poz.dziedziczenie.helpdesk;
+package dziedziczenie.helpdesk;
+
+import dziedziczenie.helpdesk.User;
 
 import java.util.ArrayList;
 import java.util.List;

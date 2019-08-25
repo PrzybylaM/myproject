@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.programowanie1.lists.queue;
+package programowanie1.lists.queue;
 
 import java.util.Optional;
 

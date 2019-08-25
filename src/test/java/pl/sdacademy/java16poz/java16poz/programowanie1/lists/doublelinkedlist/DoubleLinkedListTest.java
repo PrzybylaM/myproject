@@ -3,8 +3,8 @@ package pl.sdacademy.java16poz.java16poz.programowanie1.lists.doublelinkedlist;
 import org.junit.Before;
 import org.junit.Test;
 import pl.sdacademy.java16poz.java16poz.programowanie1.TestBase;
-import pl.sdacademy.java16poz.programowanie1.lists.List;
-import pl.sdacademy.java16poz.programowanie1.lists.doublelinkedlist.DoubleLinkedListImpl;
+import programowanie1.lists.List;
+import programowanie1.lists.doublelinkedlist.DoubleLinkedListImpl;
 
 import static org.junit.Assert.assertTrue;
 

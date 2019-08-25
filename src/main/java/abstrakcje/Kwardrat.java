@@ -1,4 +1,6 @@
-package pl.sdacademy.java16poz.abstrakcje;
+package abstrakcje;
+
+
 
 /**
  * Kwardrat

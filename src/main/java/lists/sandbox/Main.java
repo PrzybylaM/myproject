@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.lists.sandbox;
+package lists.sandbox;
 
 /**
  * Main

@@ -6,7 +6,7 @@ import org.mockito.ArgumentCaptor;
 import org.mockito.Captor;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
-import pl.sdacademy.java16poz.testowanietdd.calculator.Calculator;
+import testowanietdd.calculator.Calculator;
 
 import java.util.List;
 

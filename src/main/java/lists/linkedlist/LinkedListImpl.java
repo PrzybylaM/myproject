@@ -1,6 +1,6 @@
-package pl.sdacademy.java16poz.lists.linkedlist;
+package lists.linkedlist;
 
-import pl.sdacademy.java16poz.programowanie1.lists.List;
+import programowanie1.lists.List;
 
 /**
  * LinkedListImpl

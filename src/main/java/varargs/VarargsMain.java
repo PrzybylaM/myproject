@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.varargs;
+package varargs;
 
 import java.util.ArrayList;
 import java.util.List;

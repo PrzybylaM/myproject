@@ -1,12 +1,12 @@
-package pl.sdacademy.java16poz.programowanie2.program;
+package programowanie2.program;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import pl.sdacademy.java16poz.programowanie2.program.beers.*;
-import pl.sdacademy.java16poz.programowanie2.program.helpers.DateProvider;
-import pl.sdacademy.java16poz.programowanie2.program.helpers.IDateProvider;
-import pl.sdacademy.java16poz.programowanie2.program.service.AnimalsService;
-import pl.sdacademy.java16poz.programowanie2.program.service.IAnimalService;
+import programowanie2.program.beers.*;
+import programowanie2.program.helpers.DateProvider;
+import programowanie2.program.helpers.IDateProvider;
+import programowanie2.program.service.AnimalsService;
+import programowanie2.program.service.IAnimalService;
 
 import java.util.Map;
 import java.util.Scanner;

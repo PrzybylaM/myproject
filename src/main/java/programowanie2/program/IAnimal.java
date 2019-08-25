@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.programowanie2.program;
+package programowanie2.program;
 
 public interface IAnimal {
     void eat();

@@ -2,6 +2,7 @@ package pl.sdacademy.java16poz.testowanietdd.introduction;
 
 import org.junit.Before;
 import org.junit.Test;
+import testowanietdd.introduction.Cafe;
 
 import static junit.framework.TestCase.assertTrue;
 import static org.junit.Assert.assertFalse;

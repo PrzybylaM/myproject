@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.programowanie2.emergencyObserwator;
+package programowanie2.emergencyObserwator;
 /**
  Został użyty wzorzez obserwator
  */

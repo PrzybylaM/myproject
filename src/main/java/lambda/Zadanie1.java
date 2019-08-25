@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.lambda;
+package lambda;
 
 import java.util.Arrays;
 import java.util.Comparator;

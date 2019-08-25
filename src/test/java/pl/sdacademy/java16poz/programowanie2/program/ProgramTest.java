@@ -5,9 +5,12 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mockito;
-import pl.sdacademy.java16poz.programowanie2.program.beers.BlackBeer;
-import pl.sdacademy.java16poz.programowanie2.program.beers.PolarBeer;
-import pl.sdacademy.java16poz.programowanie2.program.helpers.IDateProvider;
+import programowanie2.program.IAnimal;
+import programowanie2.program.IBeer;
+import programowanie2.program.ILivingBear;
+import programowanie2.program.beers.BlackBeer;
+import programowanie2.program.beers.PolarBeer;
+import programowanie2.program.helpers.IDateProvider;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;

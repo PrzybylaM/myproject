@@ -1,4 +1,5 @@
-package pl.sdacademy.java16poz.dziedziczenie.helpdesk;
+package dziedziczenie.helpdesk;
+
 
 public class HelpDeskMain {
     public static void main(String[] args) {

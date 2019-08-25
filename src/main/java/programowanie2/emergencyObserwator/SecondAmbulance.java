@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.programowanie2.emergencyObserwator;
+package programowanie2.emergencyObserwator;
 
 public class SecondAmbulance implements IAmbulance {
     private Operator operator;

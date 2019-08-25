@@ -3,7 +3,7 @@ package pl.sdacademy.java16poz.java16poz.programowanie1.algorithms;
 import org.junit.Before;
 import org.junit.Test;
 import pl.sdacademy.java16poz.java16poz.programowanie1.TestBase;
-import pl.sdacademy.java16poz.programowanie1.algorithms.Fibonacci;
+import programowanie1.algorithms.Fibonacci;
 
 public class FibonacciTest extends TestBase {
     int[] numbers;

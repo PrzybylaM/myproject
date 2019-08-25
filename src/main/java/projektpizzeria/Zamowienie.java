@@ -1,6 +1,6 @@
-package pl.sdacademy.java16poz.projektpizzeria;
+package projektpizzeria;
 
-import pl.sdacademy.java16poz.obiekty.PozycjaZamowienia;
+import obiekty.PozycjaZamowienia;
 
 import java.util.ArrayList;
 import java.util.List;

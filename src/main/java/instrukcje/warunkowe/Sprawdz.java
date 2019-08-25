@@ -1,7 +1,7 @@
-package pl.sdacademy.java16poz.instrukcje.warunkowe;
+package instrukcje.warunkowe;
 
 
-import pl.sdacademy.java16poz.typNumeryczny.Plec;
+import typNumeryczny.Plec;
 
 /**
  * Sprawdz

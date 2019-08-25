@@ -1,7 +1,7 @@
 package pl.sdacademy.java16poz.java16poz.animals;
 
+import dziedziczenie.animals.Eagle;
 import org.junit.Test;
-import pl.sdacademy.java16poz.dziedziczenie.animals.Eagle;
 
 /**
  * AnimalsMain

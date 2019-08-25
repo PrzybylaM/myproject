@@ -1,7 +1,7 @@
-package pl.sdacademy.java16poz.projekt;
+package projekt;
 
-import pl.sdacademy.java16poz.obiekty.PozycjaZamowienia;
-import pl.sdacademy.java16poz.obiekty.Zamowieniee;
+import obiekty.PozycjaZamowienia;
+import obiekty.Zamowieniee;
 
 import java.util.HashMap;
 import java.util.Map;

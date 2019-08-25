@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.programowanie2.weryfikacjaID;
+package programowanie2.weryfikacjaID;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;

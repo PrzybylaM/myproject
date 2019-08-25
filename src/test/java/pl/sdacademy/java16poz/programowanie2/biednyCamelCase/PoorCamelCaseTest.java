@@ -1,6 +1,7 @@
 package pl.sdacademy.java16poz.programowanie2.biednyCamelCase;
 
 import org.junit.Test;
+import programowanie2.biednyCamelCase.PoorCamelCase;
 
 import java.io.BufferedReader;
 import java.io.File;

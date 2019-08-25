@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.testowanietdd.calculator;
+package testowanietdd.calculator;
 
 public class CalculatorImpl implements Calculator {
 

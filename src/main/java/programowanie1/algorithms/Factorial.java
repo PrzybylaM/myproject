@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.programowanie1.algorithms;
+package programowanie1.algorithms;
 
 public class Factorial {
 

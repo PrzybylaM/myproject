@@ -1,4 +1,5 @@
-package pl.sdacademy.java16poz.abstrakcje;
+package abstrakcje;
+
 
 public class Prostokat extends Figura {
 

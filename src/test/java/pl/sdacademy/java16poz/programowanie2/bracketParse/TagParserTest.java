@@ -1,6 +1,7 @@
 package pl.sdacademy.java16poz.programowanie2.bracketParse;
 
 import org.junit.Test;
+import programowanie2.bracketParse.TagParser;
 
 import static org.junit.Assert.*;
 

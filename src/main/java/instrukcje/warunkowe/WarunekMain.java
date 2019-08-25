@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.instrukcje.warunkowe;
+package instrukcje.warunkowe;
 
 
 public class WarunekMain {

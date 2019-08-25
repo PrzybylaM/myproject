@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.dziedziczenie.helpdesk;
+package dziedziczenie.helpdesk;
 
 import java.util.List;
 

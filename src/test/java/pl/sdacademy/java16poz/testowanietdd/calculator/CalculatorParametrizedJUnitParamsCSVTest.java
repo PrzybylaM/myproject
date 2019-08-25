@@ -6,6 +6,8 @@ import junitparams.Parameters;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
+import testowanietdd.calculator.Calculator;
+import testowanietdd.calculator.CalculatorImpl;
 
 import static org.junit.Assert.assertEquals;
 

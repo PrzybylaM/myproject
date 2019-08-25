@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.projektpizzeria;
+package projektpizzeria;
 
 public enum OpcjaMenu {
     ZAKONCZ,ZLOZ_ZAMOWIENIE,RACHUNEK,STAN_ZAMOWIENIA,NIE_POPRAWNIE,SPRAWDZ_ZAMOWIENIE,LISTA_ZAMOWIEN, WYSWIETL_MENU

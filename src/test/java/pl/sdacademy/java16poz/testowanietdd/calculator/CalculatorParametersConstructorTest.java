@@ -3,6 +3,8 @@ package pl.sdacademy.java16poz.testowanietdd.calculator;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
+import testowanietdd.calculator.Calculator;
+import testowanietdd.calculator.CalculatorImpl;
 
 import java.util.Arrays;
 import java.util.Collection;

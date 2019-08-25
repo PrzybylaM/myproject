@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.lists.linkedlist;
+package lists.linkedlist;
 
 /**
  * Node

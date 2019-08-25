@@ -1,6 +1,6 @@
-package pl.sdacademy.java16poz.klasy;
+package klasy;
 
-import pl.sdacademy.java16poz.obiekty.Hotel;
+import obiekty.Hotel;
 
 public class hotelMain {
     public static void main(String[] args) {

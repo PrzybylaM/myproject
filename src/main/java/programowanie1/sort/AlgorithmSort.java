@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.programowanie1.sort;
+package programowanie1.sort;
 
 /**
  * Czym się rożni klasa od klasy abstrkcyjnej od interfejsu?

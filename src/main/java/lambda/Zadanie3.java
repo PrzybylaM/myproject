@@ -1,6 +1,6 @@
-package pl.sdacademy.java16poz.lambda;
+package lambda;
 
-import pl.sdacademy.java16poz.obiekty.Osoba;
+import obiekty.Osoba;
 
 import java.util.ArrayList;
 import java.util.List;

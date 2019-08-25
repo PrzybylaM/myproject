@@ -1,6 +1,6 @@
-package pl.sdacademy.java16poz.dziedziczenie;
+package dziedziczenie;
 
-import pl.sdacademy.java16poz.obiekty.PozycjaZamowienia;
+import obiekty.PozycjaZamowienia;
 
 public class DziedziczenieMain {
     public static void main(String[] args) {

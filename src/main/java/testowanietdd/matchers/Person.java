@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.testowanietdd.matchers;
+package testowanietdd.matchers;
 
 import java.util.Date;
 

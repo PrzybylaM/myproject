@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.petle;
+package petle;
 
 public class PetlaForMain {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.programowanie2.sklepInternetowy;
+package programowanie2.sklepInternetowy;
 
 public class TaxOffice {
     private Tax tax;

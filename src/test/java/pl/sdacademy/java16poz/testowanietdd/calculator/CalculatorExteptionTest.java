@@ -6,11 +6,13 @@ import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;
 import org.junit.runner.RunWith;
+import testowanietdd.calculator.Calculator;
+import testowanietdd.calculator.CalculatorImpl;
 
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
-import static pl.sdacademy.java16poz.testowanietdd.calculator.CalculatorImpl.DIV_ERROR_MESSAGE;
+import static testowanietdd.calculator.CalculatorImpl.DIV_ERROR_MESSAGE;
 
 
 public class CalculatorExteptionTest {

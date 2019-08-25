@@ -2,6 +2,8 @@ package pl.sdacademy.java16poz.testowanietdd.calculator;
 
 import org.junit.Before;
 import org.junit.Test;
+import testowanietdd.calculator.Calculator;
+import testowanietdd.calculator.CalculatorImpl;
 
 import static org.junit.Assert.*;
 

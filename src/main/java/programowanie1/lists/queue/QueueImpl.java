@@ -1,6 +1,6 @@
-package pl.sdacademy.java16poz.programowanie1.lists.queue;
+package programowanie1.lists.queue;
 
-import pl.sdacademy.java16poz.lists.linkedlist.Node;
+import lists.linkedlist.Node;
 
 import java.util.Optional;
 

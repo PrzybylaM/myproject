@@ -1,7 +1,7 @@
-package pl.sdacademy.java16poz.typydanych;
+package typydanych;
 
-import pl.sdacademy.java16poz.obiekty.Osoba;
-import pl.sdacademy.java16poz.obiekty.User;
+import obiekty.Osoba;
+import obiekty.User;
 
 /**
  * StringMain

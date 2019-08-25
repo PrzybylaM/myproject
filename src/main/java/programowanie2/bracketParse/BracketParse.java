@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.programowanie2.bracketParse;
+package programowanie2.bracketParse;
 
 public class BracketParse {
 

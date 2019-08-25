@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.wyjatki;
+package wyjatki;
 
 import java.util.concurrent.TimeUnit;
 

@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.dziedziczenie.animals;
+package dziedziczenie.animals;
 
 public class Elephant extends Mammal implements Vegenarian {
 

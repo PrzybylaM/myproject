@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.programowanie2.sprawdzaniePliku;
+package programowanie2.sprawdzaniePliku;
 
 import java.io.File;
 import java.util.Scanner;

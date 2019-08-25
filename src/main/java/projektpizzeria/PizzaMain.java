@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.projektpizzeria;
+package projektpizzeria;
 
 import java.util.ArrayList;
 import java.util.InputMismatchException;

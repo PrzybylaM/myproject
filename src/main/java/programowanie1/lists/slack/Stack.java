@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.programowanie1.lists.slack;
+package programowanie1.lists.slack;
 
 import java.util.Optional;
 

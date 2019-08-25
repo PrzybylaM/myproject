@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.programowanie2.kryptografia.szyfrCezara;
+package programowanie2.kryptografia.szyfrCezara;
 
 import java.util.Scanner;
 

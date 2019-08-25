@@ -1,6 +1,6 @@
-package pl.sdacademy.java16poz.programowanie1.lists.doublelinkedlist;
+package programowanie1.lists.doublelinkedlist;
 
-import pl.sdacademy.java16poz.programowanie1.lists.List;
+import programowanie1.lists.List;
 
 public class DoubleLinkedListImpl<T> implements List<T> {
     @Override

@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.wyrazenia;
+package wyrazenia;
 
 import java.util.ArrayList;
 import java.util.List;

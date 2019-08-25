@@ -1,9 +1,10 @@
 package pl.sdacademy.java16poz.java16poz.programowanie1.listy.listnumber;
 
+import lists.listnumber.ListNumber;
+import lists.listnumber.ListNumberImpl;
 import org.junit.Before;
 import org.junit.Test;
-import pl.sdacademy.java16poz.programowanie1.lists.listnumber.ListNumber;
-import pl.sdacademy.java16poz.programowanie1.lists.listnumber.ListNumberImpl;
+
 
 import static org.junit.Assert.assertTrue;
 

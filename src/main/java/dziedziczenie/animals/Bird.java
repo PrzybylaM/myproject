@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.dziedziczenie.animals;
+package dziedziczenie.animals;
 
 public class Bird extends Animal  {
     public Bird(String name) {

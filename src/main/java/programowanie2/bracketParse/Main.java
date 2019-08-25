@@ -1,6 +1,6 @@
-package pl.sdacademy.java16poz.programowanie2.bracketParse;
+package programowanie2.bracketParse;
 
-import static pl.sdacademy.java16poz.programowanie2.bracketParse.BracketParse.validateBrackets;
+import static programowanie2.bracketParse.BracketParse.validateBrackets;
 
 public class Main {
     public static void main(String[] args) {

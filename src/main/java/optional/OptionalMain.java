@@ -1,6 +1,6 @@
-package pl.sdacademy.java16poz.optional;
+package optional;
 
-import pl.sdacademy.java16poz.obiekty.Zamowieniee;
+import obiekty.Zamowieniee;
 
 import java.util.Optional;
 import java.util.Scanner;

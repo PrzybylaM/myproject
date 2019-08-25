@@ -1,4 +1,4 @@
-package pl.sdacademy.java16poz.abstrakcje;
+package abstrakcje;
 
 
 public class Kolo extends Figura {

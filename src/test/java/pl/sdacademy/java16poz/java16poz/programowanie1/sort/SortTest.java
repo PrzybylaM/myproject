@@ -3,9 +3,8 @@ package pl.sdacademy.java16poz.java16poz.programowanie1.sort;
 import org.junit.Before;
 import org.junit.Test;
 import pl.sdacademy.java16poz.java16poz.programowanie1.TestBase;
-import pl.sdacademy.java16poz.programowanie1.sort.*;
+import programowanie1.sort.*;
 
-import static org.junit.Assert.assertTrue;
 
 public class SortTest extends TestBase {
     //stworz tablice o nazwie numbers
